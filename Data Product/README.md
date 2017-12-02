@@ -1,6 +1,6 @@
-# Data Product : Corruption, its effects and solution.
+#  Data Product : Corruption, its effects and solution.
 
-##### Date: 2nd Nov 2017                                                                                                                                                    
+##### Date: 2nd Nov 2017                                                                                                                                                     
 ##### Professor: Michael Schermann
 ##### Project type: Group
 ##### Team Members: Embar Ravi Bhargav, Nikhil Kaushik, Neha Goushal, Parvathy, Priyanka Nirpase
