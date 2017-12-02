@@ -1,4 +1,4 @@
-# Data Product : Corruption, how it is affecting countries? Is there a solution to it?
+# Data Product : Corruption, its effects and solution.
 
 ##### Date: 2nd Nov 2017                                                                                                                                                    
 ##### Professor: Michael Schermann
@@ -7,8 +7,19 @@
 
 ##### Tableau Visual: 
 
-Link1: 
+Link1: Perception matches Reality
+
 https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perception_and_Reality/PerceptionandReality?publish=yes
+
+Link2: Corruption has adverse effect on human development
+
+
+
+Link3: Countries with higher CPI have more stable and predictable GDP
+
+
+
+Link4: Educate people to eradicate corruption
 
 ##### Youtube Video:
 ***
@@ -57,7 +68,9 @@ The unethical and often illegal nature of corruption makes measurement particula
 
 **Corruption Perception Index and its importance in our analysis**
 
-Transparency International (TI) has published the Corruption Perceptions Index (CPI) since 1996, annually ranking countries "by their perceived levels of corruption, as determined by expert assessments and opinion surveys." The CPI generally defines corruption as "the misuse of public power for private benefit" 
+Transparency International (TI) has published the Corruption Perceptions Index (CPI) since 1996, annually ranking countries "by their perceived levels of corruption, as determined by expert assessments and opinion surveys." The CPI generally defines corruption as "the misuse of public power for private benefit". 
+
+*Higher CPI value means the country is less corrupt.*
 
 **Economic implications**
 "Research papers published in 2007 and 2008 examined the economic consequences of corruption perception, as defined by the CPI. The researchers found a correlation between a higher CPI and higher long-term economic growth, as well as an increase in GDP growth of 1.7% for every unit increase in a country's CPI score. Also shown was a power-law dependence linking higher CPI score to higher rates of foreign investment in a country."   *Source: Wikipedia*
@@ -76,15 +89,50 @@ In this project we also added a possible solution to the problem of Corruption a
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33506542-22adedbe-d6a5-11e7-9cd1-01e4c6598da8.png)
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
+**Day 1:**
+
+* **Activity 1:** We had a team meeting to discuss what is needed from the project and what a 'Data Product' means. We watched a video (Link: https://www.youtube.com/watch?v=OuRINNSDtlM) to understand it better. 
+
+**Outcome:** The team was clear with what this project is expecting. The outcome of this project will be a story represented through different visualization. 
+
+**Day 2:**
+
+* **Activity 1:** Finalized the topic for this project, which is 'Corruption'. We discussed about different parameters on which corruption can be measured. We formulated an outline of our story, this included the following:
+1. Parameters on which corruption is measured.
+2. How the corruption is affecting the growth of people and countries
+3. What could be the possible measures to eradicate corruption from the society.
+
+* **Activity 2:**
+Laid down a project plan to be followed. The project plan helps in tracking the pace and the pieces of the plan.
+
+**Day 3:**
+
+* **Activity 1:** The team decided to use **5 W's** for this data product. This appraoch helped us in answering very crucial questions at a very initial stage. This also helped us in understanding what is needed from this project and how we are going to approach it. Understanding the audience and their requirements is of high importance in any project, as they are the once who will be making decisions using this product.
+
+**Day 4:**
+
+* **Activity 1:** Deciding on the metrics to be used which can provide intriguing results. Comparing the effects of corruption on the human development, a countries GDP and FDI seems interesting. Also, the relationship between education and corruption can also give us a possible solution to this problem.
+
+* **Activity 2:** The process of data extraction and analysis is really important to come up with a good visualization. The team members did some individual analysis and the results were then discussed with the team. All of the data collected from different sources were combined together so as to make it consistent.
+
+**Day 5:**
+
+* **Activity 1:** Creating a Minimal Viable Product to present to the customer. This helps in checking what exactly the customer is expecting and do the team working in the right direction or not. It is always better to understand the perpective of the customers and take several feedbacks from them. This process helps in eliminating any sort of confusion in the beginning stages of a project. Also, it helps in reducing any scope creep towards the end.
 
 **Advantages:**
-* This visualization helps to see the trend and relationship between Corruption Perception Index and Reality.
-* This helped in proving that CPI matches Reality.
+* This visualization is part of a Minimal Viable product and is a quick way to check with the user if this is what he/she is looking for.
+* This has a very small set of countries, but provides us with some sort of trend that the countries with higher corruption has higher number of share of people who have bribed.
 
 **Disadvantages:**
-* The segregation or the grouping in this visual is done on the basis of CPI, which is redundant as it can be easily seen from the x-axis. The color coding is not needed for this repetitive categories.
+* It is hard to make any solid conclusion with the subset of data used.
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33509171-23f37aea-d6b4-11e7-928d-76713da275db.png)
+
+* **Activity 2:** Met the professor to understand his perspective on the MVP we created. This meeting helped us in understanding how we can group the data based on the continents and see a trend in the data. Also, analyzing the factors such as effect of corruption on the Foreign Direct Investment (FDI) could be really interesting.
+
+**Day 6:**
+
+* **Activity 1:** Improving the visualization so as to provide better insights. 
 
 **Advantages:**
 * This visualization helps to see the trend and relationship between Corruption Perception Index and Reality.
@@ -94,6 +142,14 @@ In this project we also added a possible solution to the problem of Corruption a
 * The segregation or the grouping in this visual is done on the basis of CPI, which is redundant as it can be easily seen from the x-axis. The color coding is not needed for this repetitive categories. 
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33367446-7abd9b0c-d4a3-11e7-98c9-c8024f7cfac3.png)
+
+**Day 7:**
+
+* **Activity 1:** Relating all the visualization together to create a story out of it.
+
+* **Activity 2:** Created different groups based on continents. This helped us in showing a trend that the corruption is prevalent in the regions of Asia, Africa and South America. This helped in narrowing down the result to better support the story and the claim.
+
+**Day 8-10:** Finalizing everything and drafting everything in a document. This document is really helpful to see how this  project moved from the beginning till the end. This document is a guide on what is done in this project and all the information regarding the chain of thoughts the team had during the course of creation of this project.
 
 ### IV.	Final Data Product:
 #### Visualization 1: Perception matches Reality
@@ -125,10 +181,12 @@ One of the major reason for high corruption is the financial instability. “If 
 
 *Source: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
          https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/*
-         
+
+***
 #### Visualization 2: Corruption has adverse effect on human development
 
 Human Development Index(HDI)
+
 The World Health Organization (WHO) defines health as a state of complete physical, mental and social well-being. Along with crime and violence, corruption is seen as the most serious challenge affecting health of most of the countries. Corruption exists when people abuse the power that is entrusted to them     in order to benefit them personally. Lack of transparency, secret dealings, bribery continue to ravage our social, economic and human development. It is causing a serious loss in the economy, governance efficiency, quality of life, trust in public institutions. Leading areas in corruption are education and health care, corruption in these areas directly impairs the quality of human capital.
 
 Corruption increases the costs of providing education and health services. It also affects the average life expectancy. Corruption has a greater influence on the income of the poorest segment of society, in other words it is reflected in the first place on the poor. The tax burden is being shifted on the poor, social programs funds aimed at reducing the income differentiation are being stolen as well.
@@ -138,6 +196,41 @@ It reduces the rate of economic growth, reduce the public expenditure on educati
 Hence, we need to see the impact of corruption on overall quality of human capital. The best approach to do this is the index method. The index method is used to bring the various elements of human capital to a single coordinate system. The most famous index that is used in the practice of evaluation of human capital is the Human Development Index (HDI).
 
 Advantages: In this visualization, we have plotted corruption perception index against human development index. We have divided the countries into continents in order to get a better understanding and to analyze the reasons behind corruption. Blue color represents Asia, Africa and South America whereas red represents North America and Europe. We can clearly see the trend here, the Asian, African and South American countries have very low corruption perception index which indicates a very high corruption. Clearly, they have a very low human development index. For North America, Europe and Oceania, as the corruption perception index is increasing, i.e. as the corruption is decreasing, we get to see a growing trend in human development. The visualization provides the platform to study the reasons and come up with an action plan to eradicate corruption.  
+
+![Screenshot](https://user-images.githubusercontent.com/32223677/33511546-5f6da59c-d6d1-11e7-9383-ea8c843e5790.PNG)
+
+***
+### Visualization 3: Countries with higher CPI have more stable and predictable GDP
+
+Gross domestic product (GDP)
+
+Gross domestic product (GDP) is the total value of everything produced by all the people and companies in the country. It doesn't matter if they are citizens or foreign-owned companies. If they are located within the country's boundaries, the government counts their production as GDP. It is the best way to measure a country's economy. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Hence, we thought of comparing the effect of corruption on GDP.
+ 
+Corruption has been studied as a problem of political, economic, cultural and moral underdevelopment. The World Bank and IMF presume that corruption has significantly negative effects on economic growth. Corruption undermines development by distorting the rule of law and weakening the institutional foundation on which economic growth depends.
+ 
+The mutual causality between corruption and GDP level is negative, which means a higher level of corruption results in a lower level of GDP and vice versa.
+On one hand corruption feeds on rent, which produce inefficient economic policies, also corruption often works as a tax on factor accumulation and on investment that hinders economic development. On the other hand, high levels of national income may bring greater willingness to combat corruption.
+ 
+If we examine the relationship between perceived corruption level and economic growth rate across countries, we can see that growth rates diverge more for countries with high-level corruption. In other words, while many highly corrupt countries have low economic growth rates, there are countries that have achieved rapid economic growth under rampant governmental corruption. This at least suggests that some countries may achieve high economic performance despite high corruption.
+ 
+We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
+
+![Screenshot](https://user-images.githubusercontent.com/32223677/33511682-0efcaa60-d6d4-11e7-8750-5a7077410f72.png)
+
+***
+### Visualization 4: Educate people to eradicate corruption
+Why Education as a metric?
+Education is the most important thing in one’s life. Being well educated makes one a
+better, responsible, well mannered, ethical human being.
+If one does not have adequate schooling experience, they are more likely to fall into the
+wrong path of corruption.
+Since we are talking about corruption I want to highlight one of the factors that could be
+a reason for corruption which is lack of education or less number of schooling years.
+I want to mainly point out and show that countries which have more number of
+schooling years are less corrupted.
+
+
+Data source: http://data.uis.unesco.org/Index.aspx?queryid=242#
 
 ### V. About the final Data Product
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
@@ -154,7 +247,7 @@ Then the second visualization shows how the corruption has been affecting the Hu
 ### Additional Information
 ***
 
-### VII.	All the links:
+### VI.	All the links:
 
 Links related to visualization 1, explaining the **,'Reason behind corruption in different regions'**:
 
@@ -168,22 +261,19 @@ Link: https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/
 
 Link: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
 
-Attachments area
-Preview YouTube video The Next Generation of Data Products | Hilary Mason | AnacondaCON 2017
+References for Visualization 4:
 
-The Next Generation of Data Products | Hilary Mason | AnacondaCON 2017
+Link1: http://data.uis.unesco.org/Index.aspx?queryid=242#
 
-Nikhil Kaushik
-17:58 (2 hours ago)
+Link2: https://blog.udemy.com/importance-of-school/
 
-to Priyanka, Parvathy, Neha, Bhargav, me 
-Missing pieces : 
+Link3: https://www.enotes.com/homework-help/why-school-important-our-lives-407271
 
-1. Links of your tableau server viz..
-2. Intermediate Version - Pic + Advantages and Disadvantages
-3. Final Version - Screenshot + Complete explanation.. what is Education.. what is GDP..  then advantages and insights from your visual.
+Link4: https://edlab.tc.columbia.edu/blog/9886-Why-is-Education-So-Important-in-Our-Life
 
-4. Team Video... we all can create a video and use that link.
-
-In the meanwhile I will update this document.
+### VI. Learnings and Challenges:
+* This project helped us in understanding what a data product means and how important it is to put all the pieces together to create an effective story.
+* To get better insight from the data, it is important to do a better data analysis.
+* Working in a team could be challenging and always adds to one's learning curve.
+* Time management is really important in every project. This project had a lot of pieces in it and was the one where all the pieces should fit together to make a good product.
 
